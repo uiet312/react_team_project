@@ -21,4 +21,10 @@ HTTP 표준 접근 방식을 이용하여 플랫폼 환경, 클라이언트 환�
 
 <img src = "https://user-images.githubusercontent.com/64244851/164411483-14be3d33-346a-41b5-8784-5967484a9db8.gif" width="300" height="300">
 
+# 2. 화면 구성
 
+![image](https://user-images.githubusercontent.com/64244851/164414099-0480fc9f-642c-4cc9-ab32-8375975d46a2.png)
+-초기화면
+
+ㅁㅁㅁㅁㅁ
+-완성화면_
